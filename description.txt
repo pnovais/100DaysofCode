@@ -1,0 +1,4 @@
+In this file, I will make the description of each day.
+
+Day001: how to get the distance between two points, using pandas and numpy.
+Day002: For points with distance=1, make labels, where the label will be the minimum value between the two label's point.
